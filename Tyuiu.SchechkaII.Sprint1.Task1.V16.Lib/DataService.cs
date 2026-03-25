@@ -4,7 +4,7 @@
     {
         public double Calculate(double x, double a, double y)
         {
-            // x * 5 * a + 2 * y
+            
             return x * 5 * a + 2 * y;
         }
     }

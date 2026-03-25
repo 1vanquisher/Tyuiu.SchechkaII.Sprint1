@@ -1,8 +1,8 @@
 <Solution>
-  <Folder Name="/ISprint1Task0V14/">
-    <Project Path="Tyuiu.SchechkaII.Sprint1.Task0.V14.Lib/Tyuiu.SchechkaII.Sprint1.Task0.V14.Lib.csproj" Id="a66676ea-dd50-4c0b-a8d0-5ae3e146c5ca" />
+  <Folder Name="/Task0.V14/">
+    <Project Path="Tyuiu.SchechkaII.Sprint1.Task0.V14.Lib/Tyuiu.SchechkaII.Sprint1.Task0.V14.Lib.csproj" Id="e1ca01e8-953e-47e5-ad96-cee242dee97d" />
     <Project Path="Tyuiu.SchechkaII.Sprint1.Task0.V14.Test/Tyuiu.SchechkaII.Sprint1.Task0.V14.Test.csproj" Id="1dd2bddd-de0e-41f4-93d3-cf5e91ee8b5e" />
-    <Project Path="Tyuiu.SchechkaII.Sprint1.Task0.V14/Tyuiu.SchechkaII.Sprint1.Task0.V14.csproj" Id="280d1ad4-75a1-48c8-a2f0-68552c349f0d" />
+    <Project Path="Tyuiu.SchechkaII.Sprint1.Task0.V14/Tyuiu.SchechkaII.Sprint1.Task0.V14.csproj" Id="db55a7a4-f68c-4f94-91d0-f42960f3c2fb" />
   </Folder>
   <Folder Name="/Task1.V16/">
     <Project Path="Tyuiu.SchechkaII.Sprint1.Task1.V16.Lib/Tyuiu.SchechkaII.Sprint1.Task1.V16.Lib.csproj" Id="ff6afffb-9ba0-408e-8eca-00e516574677" />
