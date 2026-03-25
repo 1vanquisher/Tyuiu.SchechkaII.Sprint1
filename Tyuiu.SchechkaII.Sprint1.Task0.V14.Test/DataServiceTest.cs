@@ -1,10 +1,8 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using Tyuiu.SchechkaII.Sprint1.Task0.V14.Lib;
+﻿using Tyuiu.SchechkaII.Sprint1.Task0.V14.Lib;
 namespace Tyuiu.SchechkaII.Sprint1.Task0.V14.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public sealed class DataServiceTest
     {
         [TestMethod]
         public void CalculateReturn()
