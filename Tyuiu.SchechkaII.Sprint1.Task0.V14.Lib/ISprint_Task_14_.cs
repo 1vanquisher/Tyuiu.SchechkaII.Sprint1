@@ -1,6 +1,6 @@
 ﻿namespace Tyuiu.SchechkaII.Sprint1.Task0.V14.Lib
 {
-    public class DataService
+    public class ISprint_Task_14_
     {
         public static int Calculate()
         {
